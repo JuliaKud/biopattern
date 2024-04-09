@@ -1,0 +1,25 @@
+/home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/gen.o: \
+ gen.c \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/err.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/types.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/bpf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/uapi/linux/bpf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/uapi/linux/bpf_common.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf_common.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf_version.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf_legacy.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf_internal.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/relo_core.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/libbpf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/btf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/uapi/linux/btf.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/btf.h \
+ json_writer.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/compiler.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/compiler_types.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/compiler-gcc.h \
+ main.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/kernel.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/third_party/bpftool/include/linux/build_bug.h \
+ /home/xovotat/julius/git_repos/bpf-developer-tutorial/src/17-biopattern/.output/bpftool/bootstrap/libbpf/include/bpf/hashmap.h
